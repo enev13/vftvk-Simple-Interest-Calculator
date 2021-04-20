@@ -1,6 +1,8 @@
 body {background-color:black;font-family:arial;color:white}
 h1{color:grey;font-family:verdana}
+p{padding-left: 30px;}
 .maindiv {
+    margin: auto;
     background-color:white;
     color:black;
     width:300px;
@@ -11,4 +13,3 @@ h1{color:grey;font-family:verdana}
 .highlight{
     background-color:yellow;
 }
-
